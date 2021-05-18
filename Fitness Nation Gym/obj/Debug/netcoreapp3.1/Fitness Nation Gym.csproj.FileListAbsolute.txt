@@ -1,0 +1,340 @@
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.StaticWebAssets.xml
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.exe
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.deps.json
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.runtimeconfig.json
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.runtimeconfig.dev.json
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.pdb
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.Views.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.Views.pdb
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.csprojAssemblyReference.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.AssemblyInfoInputs.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.AssemblyInfo.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.csproj.CoreCompileInputs.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.MvcApplicationPartsAssemblyInfo.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.MvcApplicationPartsAssemblyInfo.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.RazorAssemblyInfo.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.RazorAssemblyInfo.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\staticwebassets\Fitness Nation Gym.StaticWebAssets.Manifest.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\staticwebassets\Fitness Nation Gym.StaticWebAssets.xml
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fitness Nation Gym.styles.css
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.TagHelpers.input.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.TagHelpers.output.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.RazorCoreGenerate.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.RazorTargetAssemblyInfo.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.RazorTargetAssemblyInfo.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.Views.pdb
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.csproj.CopyComplete
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.pdb
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.genruntimeconfig.cache
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\Create.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\Delete.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\Details.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\Edit.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\Index.cshtml.g.cs
+D:\CSE 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\ShowSearchForm.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.StaticWebAssets.xml
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.exe
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.deps.json
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.runtimeconfig.json
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.runtimeconfig.dev.json
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.pdb
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.Views.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Fitness Nation Gym.Views.pdb
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.csprojAssemblyReference.cache
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.AssemblyInfoInputs.cache
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.AssemblyInfo.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.csproj.CoreCompileInputs.cache
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.MvcApplicationPartsAssemblyInfo.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.MvcApplicationPartsAssemblyInfo.cache
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.RazorAssemblyInfo.cache
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.RazorAssemblyInfo.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\staticwebassets\Fitness Nation Gym.StaticWebAssets.Manifest.cache
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\staticwebassets\Fitness Nation Gym.StaticWebAssets.xml
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\scopedcss\bundle\Fitness Nation Gym.styles.css
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.TagHelpers.input.cache
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.TagHelpers.output.cache
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.RazorCoreGenerate.cache
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\Create.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\Delete.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\Details.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\Edit.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\Index.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Details\ShowSearchForm.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.RazorTargetAssemblyInfo.cache
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.RazorTargetAssemblyInfo.cs
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.Views.pdb
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.csproj.CopyComplete
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.dll
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.pdb
+E:\Test 470\Fitness Nation Gym\Fitness Nation Gym\obj\Debug\netcoreapp3.1\Fitness Nation Gym.genruntimeconfig.cache
